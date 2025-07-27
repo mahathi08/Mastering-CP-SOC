@@ -20,3 +20,10 @@ Euler's totient function
 Week 4: Dynamic Programming
 Practice all 5 forms of dynamic programming.
 Learn how to identify dynamic programming problems.
+
+Week 5: Complete Graph Theory
+Learn graph representations and traversal algorithms.
+Work with:
+Trees
+Shortest path algorithms
+Minimum Spanning Trees (MSTs)
